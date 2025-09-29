@@ -1,7 +1,7 @@
-name: pachira_app
-description: A new Flutter project.
+name: Pachi
+description: A cross platform financial literacy game meant to help all age groups learn about finance and make informed financial decisions.
 publish_to: 'none'
-version: 0.1.0
+version: 0.0.1
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
